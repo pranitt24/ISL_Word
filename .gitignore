@@ -1,0 +1,6 @@
+venv/
+dataset_extracted/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+cached_isl_features.*
